@@ -15,7 +15,7 @@
  
 ## :dart: Sobre
 <p>Este WEB Site é fruto de um teste técnico para desenvolvedor web, utilizando Wordpress como gestor de conteúdos.</p>
-<p>Layout desenvolvido no Figma a ser seguido:</p
+<strong>Layout desenvolvido no Figma a ser seguido:</strong>
 <div align="center">
 <img align="center" alt="Design do site do Figma" width="500" src="layout-figma.png">
 </div>
